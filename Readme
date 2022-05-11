@@ -1,1 +1,5 @@
 Branche principale pour partage des données et reproductibilité des données.
+
+11/05/2020  
+Ajout de compatibilité directe avec le download des fichiers csv issus du site web
+Mettre un zéro lors de l'initialisation des times séries est une mauvaise idée notamment lorsque on affiche le paramètre pression => probleme de facteurs d'échelle à corriger
